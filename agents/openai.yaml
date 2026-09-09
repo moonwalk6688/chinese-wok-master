@@ -1,0 +1,4 @@
+interface:
+  display_name: "中式锅气大师 Chinese Wok Master"
+  short_description: "联网研究中式菜谱并适配家庭燃气灶、熟铁锅与锅气目标"
+  default_prompt: "Use $chinese-wok-master to research this Chinese dish and turn it into a precise home-wok cooking plan."
